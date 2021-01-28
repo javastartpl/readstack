@@ -14,7 +14,7 @@
 <body>
 <div class="container">
     <nav class="navbar">
-        <a href="#" class="logo">
+        <a href="${pageContext.request.contextPath}" class="logo">
             <i class="fas fa-share-alt-square"></i>
             ReadStack
         </a>
